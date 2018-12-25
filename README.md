@@ -1,4 +1,3 @@
-@@ -1 +1,23 @@
 # Space-Invaders
 # Python Terminal Mario
 
